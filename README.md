@@ -7,8 +7,6 @@
 
 🌱 I’m currently learning: Full-Stack Software Development
 
-Visit my <a href="https://tanmaykundapur.vercel.app/"> Website </a>
-
 <div style="display: flex; direction: column;">
     <h3>Languages and Tools:</h3>
     <a href="https://skillicons.dev">
@@ -23,3 +21,5 @@ Visit my <a href="https://tanmaykundapur.vercel.app/"> Website </a>
 <a href="https://instagram.com/tanmay.kundapur" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="tanmayk" height="30" width="40" /></a>
 <a href="mailto:tanmayk@umich.edu"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="tanmayk" height="30" width="40" /></a>
 </p>
+
+<h4> Visit my <a href="https://tanmaykundapur.vercel.app/"> Website </a> </h4>
