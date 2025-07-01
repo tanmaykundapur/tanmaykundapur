@@ -2,7 +2,7 @@
 
 <p>
   I am a passionate Computer Engineering student at University of Michigan in my 2nd year. <br><br>
-  My goal is to learn as much as I can as I'm a curious person. :)
+  My goal is to learn as much as I can about software and hardware so that I can use technology to positively impact the world. :)
 </p>
 
 🌱 I’m currently learning: Full-Stack Software Development
