@@ -22,4 +22,4 @@
 <a href="mailto:tanmayk@umich.edu"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="tanmayk" height="30" width="40" /></a>
 </p>
 
-<h4> Visit my <a href="https://tanmaykundapur.vercel.app/"> Website </a> </h4>
+<h3> Visit my <a href="https://tanmaykundapur.vercel.app/"> Website </a> </h3>
