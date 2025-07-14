@@ -1,4 +1,4 @@
-<h2 align="center">hi, I'm Tanmay, welcome to my github!</h2>
+<h2 align="center">Hi, I'm Tanmay, welcome to my github!</h2>
 
 <p>
   I am a passionate Computer Engineering student at University of Michigan in my 2nd year. <br><br>
