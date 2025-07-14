@@ -5,13 +5,13 @@
   My goal is to learn as much as I can about software and hardware so that I can use technology to positively impact the world. :)
 </p>
 
-```
+```py
 class AboutMe:
     name = "Tanmay Kundapur"
     pronouns = "he/him"
     university = "University of Michigan, Ann Arbor"
     major = "Computer Engineering"
-    graduation = "2028"
+    graduation = "2027"
     interests = ["Full Stack Development", "Robotics/Computer Vision", "Quant/Fintech"]
 ```
 
