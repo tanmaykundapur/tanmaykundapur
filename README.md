@@ -1,10 +1,4 @@
 <h2 align="center">Hi, I'm Tanmay, welcome to my github!</h2>
-
-<p>
-  I am a passionate Computer Engineering student at University of Michigan in my 2nd year. <br><br>
-  My goal is to learn as much as I can about software and hardware so that I can use technology to positively impact the world. :)
-</p>
-
 ```py
 class AboutMe:
     name = "Tanmay Kundapur"
